@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Statistics-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Statistical+Analysis-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 JASP Free Installer** — JASP is a free, open-source statistics application developed at the University of Amsterdam. Works without internet access, no account required. Full offline installation.
+**💻 JASP Free Installer** — JASP is a free, open-source statistical analysis application for Windows, macOS, and Linux designed to make both classical and Bayesian statistical analyses accessible. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About JASP
 
-JASP is a free, open-source statistics application developed at the University of Amsterdam. It provides both frequentist and Bayesian statistical analyses with a clean interface and produces publication-ready output tables and graphs — designed for researchers and students.
+JASP is a free, open-source statistical analysis application for Windows, macOS, and Linux designed to make both classical and Bayesian statistical analyses accessible. Featuring a clean, drag-and-drop interface, automatic APA-formatted results output, and annotations, JASP helps researchers and students perform t-tests, ANOVA, regression, and Bayesian equivalents without requiring programming knowledge.
 
 ---
 
 ## ❌ Problem: JASP is hard to access
 
-- **Statistical Knowledge Required** — Interpreting results requires understanding of statistical methods
-- **Performance** — Complex analyses on large datasets can be slow
-- **Limited Customization** — Less flexible than R or Python for custom analysis workflows
-- **Windows and macOS Only** — No browser-based or Linux GUI version
+- **Learning Curve** — Bayesian statistics require conceptual understanding beyond classical statistics
+- **Large Datasets** — Performance can slow with very large datasets
+- **Advanced Analyses** — Some specialized statistical techniques not available in JASP
+- **R Dependency** — Some analyses run through R under the hood; R installation may be needed
 
 ---
 
@@ -121,7 +121,7 @@ JASP is a free, open-source statistics application developed at the University o
 
 ---
 
-**JASP Free Installer** — JASP is a free, open-source statistics application developed at the University of Amsterdam. Install without internet connection today!
+**JASP Free Installer** — JASP is a free, open-source statistical analysis application for Windows, macOS, and Linux designed to make both classical and Bayesian statistical analyses accessible. Install without internet connection today!
 
 <div align="center">
 
